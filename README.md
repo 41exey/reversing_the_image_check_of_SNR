@@ -1,4 +1,4 @@
-# Reverse engineering an image uploads check of SNR-CPE-W4N-MT
+# Reverse engineering an image check of SNR-CPE-W4N-MT
 
 [![Social](https://img.shields.io/badge/social-telegram-lightgray.svg)](https://teleg.run/c1ewd)
 [![IDA Pro](https://img.shields.io/badge/IDA_Pro-7.5-orange.svg)](https://hex-rays.com)
